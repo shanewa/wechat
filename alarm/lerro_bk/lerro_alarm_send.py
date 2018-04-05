@@ -7,9 +7,6 @@ import time
 import re
 import os
 
-# To user list: Lerro Li
-# _to_user=u'@b8fd59ed2b9bd992fd171b0677c279b971aa49f70f0b3885dee185e02ef7c7d8'
-
 # Message local queue file
 queue_file=r'/home/shanewa/wechat/alarm/lerro_bk/lerro_alarm.msg'
 
