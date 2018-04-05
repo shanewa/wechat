@@ -13,8 +13,11 @@ Script: Shell & Python3</br>
 This subproject aims to send the alarm messages to the specific WeChat users. 
 
 (a)File lerro_bk</br>
+
 This scenario is sending the message to non-yourself users. It uses the Python library 'itchat'. File lerro_alarm_detect.sh is the alarm detected script which send the message to lerro_alarm.msg when the alarm timer fires. File lerro_alarm_send.py sends message to WeChat user if the lerro_alarm.msg has the message. So lerro_alarm.msg is looks like a message queue.
+
 (b)alarm.cnfg</br>
+
 This is the alarm configuration file. It definites like the following example:</br>
 
 common_test_time="10:10"</br>
