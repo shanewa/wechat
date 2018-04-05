@@ -5,7 +5,7 @@ Contact: shanewa@qq.com</br>
 
 Platform: Ali Cloud</br>
 System: CentOS release 6.5 (Final)</br>
-Script: Shell & Python3</br>
+Script: Shell & Python2.6</br>
 
 
 1. alarm
